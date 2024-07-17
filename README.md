@@ -1,0 +1,3 @@
+Mail slicer
+-------
+small project
