@@ -1,3 +1,3 @@
-Mail slicer
+Mail slicer program
 -------
 small project
